@@ -1,0 +1,17 @@
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\bin\Debug\Giao Dien BTL_CSDL.exe.config
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\bin\Debug\Giao Dien BTL_CSDL.exe
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\bin\Debug\Giao Dien BTL_CSDL.pdb
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao Dien BTL_CSDL.csproj.AssemblyReference.cache
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao_Dien_BTL_CSDL.Properties.Resources.resources
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao Dien BTL_CSDL.csproj.GenerateResource.cache
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao Dien BTL_CSDL.csproj.CoreCompileInputs.cache
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao Dien BTL_CSDL.csproj.CopyComplete
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao Dien BTL_CSDL.exe
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\Giao Dien BTL_CSDL.pdb
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\ChamCongRFID.Form1.resources
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\ChamCongRFID.FormMain.resources
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\ChamCongRFID.FormLogin.resources
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\ChamCongRFID.FormLuong.resources
+C:\Users\BAO TAM\source\repos\Giao Dien BTL_CSDL\Giao Dien BTL_CSDL\obj\Debug\ChamCongRFID.FormThuongPhat.resources
