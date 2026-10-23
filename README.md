@@ -1,4 +1,4 @@
-# Employee-Timekeeping-System
+#Employee-Attendance-System
 
 Employee timekeeping and management system built from scratch as a course project.
 
